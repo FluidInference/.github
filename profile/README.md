@@ -5,6 +5,7 @@ We're a team that set out to build a local-first consumer AI app across Apple, W
 
 While some solutions exist for running local AI models on AI accelerators, most are closed source or only partially open, which we found frustrating. Rather than wait for others to solve this problem, we decided to tackle it ourselves and share our models and SDKs with everyone.
 
-Join our Discord or checkout our models on Huggingface
+Join our Discord or checkout our models on Huggingface:
+
 [![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da.svg)](https://discord.gg/8FbwRaDFJR)
 [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/collections/FluidInference/coreml-models-6873d9e310e638c66d22fba9)
