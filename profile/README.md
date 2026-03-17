@@ -7,6 +7,8 @@ Conversion scripts are opensourced in [mobius](https://github.com/FluidInference
 Join our Discord or check out our models on Hugging Face:
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da.svg)](https://discord.gg/WNsvaCtmDe)
-[![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/collections/FluidInference/coreml-models-6873d9e310e638c66d22fba9)
+[![Hugging Face Models](https://img.shields.io/badge/Hugging%20Face%20Models-800k%2B%20downloads-brightgreen?logo=huggingface)](https://huggingface.co/FluidInference)
+
+
 
 Read our [blogs here](https://inference.plus/)
