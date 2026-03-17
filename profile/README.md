@@ -1,9 +1,8 @@
-## Hi there 👋
+## 👋
 
+We're an applied AI research lab building small, personalized models. If we derive from an open-source model, it stays open source.
 
-We're a team that set out to build a local-first consumer AI apps, but after thousands of users and 6 months, we realized the hardware and software aren't there yet. Running near-realtime workloads on consumer CPUs and GPUs can be too slow and drains battery life for most consumer hardware.
-
-While some solutions exist for running local AI models on edge devices, most are only partially open or integrate poorly with native applications. We found this frustrating, so instead of waiting for others to solve the problem, we decided to tackle it ourselves and share our models and SDKs with everyone.
+Conversion scripts are opensourced in [mobius](https://github.com/FluidInference/mobius).
 
 Join our Discord or checkout our models on Huggingface:
 
